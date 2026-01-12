@@ -82,9 +82,7 @@ jupyter notebook CryptoCurrency_Price_Forcasting.ipynb
 ## 👩‍💻 Author
 
 Srashti Rastogi
-
 BCA (Artificial Intelligence) Student
-
 Invertis University, Bareilly
 
 🔗 GitHub: https://github.com/SrashtiRastogi
